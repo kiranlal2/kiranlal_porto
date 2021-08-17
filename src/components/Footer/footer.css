@@ -1,0 +1,31 @@
+
+
+.footer{
+    margin: auto;
+    width: 100%;
+    padding: 50px 100px;
+    background: #30303052;
+}
+.footer_logo {
+    text-align: right;
+    font-family: 'Cinzel Decorative', cursive;
+    letter-spacing: 1 px;
+    padding: 10px 240px 10px 0;
+    color: #fff;
+}
+
+.footer_logo span{
+    font-family: 'Qahiri', sans-serif;
+    color: #e3ff00;
+}
+
+.footer_social img {
+    padding: 5px;
+}
+
+.footer hr{
+    width: 85%;
+}
+.footer .copyrights{
+    padding: 20px 0 20px 20px;
+}

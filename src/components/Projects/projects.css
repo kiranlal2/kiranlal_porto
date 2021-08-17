@@ -1,0 +1,21 @@
+.projects .sub_tittle{
+    padding: 50px 200px 0px 50px;
+    font-size: 50px;
+    text-align: right;
+}
+section {
+    overflow-y: hidden;
+}
+
+.some_projects{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    padding: 0px 100px 50px 100px;
+}
+
+.project_0{
+    margin: 50px;
+    padding: 100px;
+    background: rgb(126, 126, 126);
+}

@@ -1,0 +1,3 @@
+install the react tsparticles from here 
+
+https://www.npmjs.com/package/react-tsparticles

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@1,900&display=swap');
+
+
+.main_banner {
+    width: 100%;
+    position: relative;
+}
+
+.hero_content {
+    width: 100vw;
+    max-height: 92vh;
+    height: 92vh;
+    background: linear-gradient(rgba(255, 255, 0, 0.233), #fff), url(../Main_banner/src_main/main_banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow-y: hidden;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row-reverse;
+    float: right;
+    margin: 350px 100px 0 0;
+    /* padding: 20px; */
+    width: 40%;
+    z-index: 3;
+}
+.bio {
+    margin: auto;
+    z-index: 13;
+}
+
+.bio_detail {
+    text-align: left;
+    padding-bottom: 5px;
+}
+.bio_detail h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+.social_icons img {
+    padding: 5px;
+}
+.social_icons a {
+    transition: transform 100ms ease-in-out;
+}
+
+.social_icons a:hover {
+    padding: 5px;
+    transform: scale(0.5);
+}

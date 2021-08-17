@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Jacques+Francois+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Qahiri&display=swap');
+
+
+.header_nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: rgba(95, 95, 0, 0.349);
+    color: #fff;
+    z-index: 10;
+    position: relative;
+}
+.nav_logo {
+    flex: 0.4;
+    display: flex;
+    justify-content: center;
+}
+.nav_logo > h1 {
+    font-family: 'Cinzel Decorative', cursive;
+    letter-spacing: 1 px;
+    padding: 10px 0;
+}
+.nav_logo > img {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.nav_logo span{
+    font-family: 'Qahiri', sans-serif;
+    color: #e3ff00;
+}
+.nav_menu {
+    display: flex;
+    flex: 0.6;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav_menu a{
+    text-decoration: none;
+}
+.nav_menu > a > h4 {
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    text-decoration: none;
+    transition: transform 50ms ease-in-out;
+    
+}
+
+.nav_menu > a > h4:hover {
+    color: #e3ff00;
+    padding: 10px 0;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    transform: scale(0.9);
+
+}
