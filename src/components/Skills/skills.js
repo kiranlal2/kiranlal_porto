@@ -12,6 +12,7 @@ import lightroom from './src_skills/photography.png';
 import indesign from './src_skills/indesign.png';
 import premiere from './src_skills/premiere.png';
 import aftereffects from './src_skills/aftereffects.png';
+import Davinci from './src_skills/davinci_resolve.png';
 import sketch from './src_skills/sketch.png';
 import xd from './src_skills/xd.png';
 import figma from './src_skills/figma.png';
@@ -21,6 +22,7 @@ import skillpic from './src_skills/skills.png';
 import './skills.css';
 
 export default function skills() {
+
     return (
         <div id="skills" className="skills">
             <h2 className="sub_tittle">SKILLS</h2>
@@ -47,6 +49,7 @@ export default function skills() {
                     <a href="#"><img src={ indesign } alt="indesign" width="50px" /></a>
                     <a href="#"><img src={ premiere } alt="premiere" width="50px" /></a>
                     <a href="#"><img src={ aftereffects } alt="after effects" width="50px" /></a>
+                    <a href="#"><img src={ Davinci } alt="Davinci resolve" width="40px" /></a>
                     <a href="#"><img src={ dsmax } alt="3dsmax" width="50px" /></a>
                     <a href="#"><img src={ maya } alt="maya" width="50px" /></a>
                 </div>
