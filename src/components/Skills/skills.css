@@ -6,6 +6,10 @@
 section {
     overflow-y: hidden;
 }
+.skills .sub_tittle {
+    padding: 50px 100px 0px 50px;
+}
+
 .skill_content {
     display: flex;
     flex-direction: row;

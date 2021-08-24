@@ -10,7 +10,7 @@
     text-align: right;
     font-family: 'Cinzel Decorative', cursive;
     letter-spacing: 1 px;
-    padding: 10px 240px 10px 0;
+    padding: 10px 20px 10px 0;
     color: #fff;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .footer hr{
-    width: 85%;
+    width: 100%;
 }
 .footer .copyrights{
     padding: 20px 0 20px 20px;

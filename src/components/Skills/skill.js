@@ -5,40 +5,40 @@ import Skill from './skills2';
 export default function skill() {
 
     const coursedetail = [
-        { date: new Date(2021, 8, 18), title: 'HTML', done: '90%' },
-        { date: new Date(2021, 8, 18), title: 'CSS', done: '90%' },
-        { date: new Date(2021, 8, 18), title: 'JS', done: '50%' },
-        { date: new Date(2021, 8, 18), title: 'React', done: '50%' },
-        { date: new Date(2021, 8, 18), title: 'Php', done: '50%' },
-        { date: new Date(2021, 8, 18), title: 'Python', done: '30%' }
+        { title: 'HTML', percentage: 90, done: "90%" },
+        { title: 'CSS', percentage: 90,  done: "90%" },
+        { title: 'JS', percentage: 50,  done:"50%" },
+        { title: 'React', percentage: 40, done:"40%" },
+        { title: 'Php', percentage: 50,  done:"50%" },
+        { title: 'Python', percentage: 30,  done: "30%" }
       ];
 
     return (
         <div className="skilld">
             <Skill 
-                date={coursedetail[0].date}
                 title={coursedetail[0].title}
+                percentage={coursedetail[0].percentage}
                 done={coursedetail[0].done} />
             <Skill
-                date={coursedetail[1].date}
                 title={coursedetail[1].title}
+                percentage={coursedetail[1].percentage}
                 done={coursedetail[1].done} />
             <Skill 
-                date={coursedetail[2].date}
                 title={coursedetail[2].title}
+                percentage={coursedetail[2].percentage}
                 done={coursedetail[2].done} />
             <Skill 
-                date={coursedetail[3].date}
                 title={coursedetail[3].title}
+                percentage={coursedetail[3].percentage}
                 done={coursedetail[3].done} />
             <Skill 
-                date={coursedetail[4].date}
                 title={coursedetail[4].title}
+                percentage={coursedetail[4].percentage}
                 done={coursedetail[4].done} />
             <Skill 
-                date={coursedetail[5].date}
                 title={coursedetail[5].title}
+                percentage={coursedetail[5].percentage}
                 done={coursedetail[5].done} />
-                </div>
-            )
+        </div>
+    )
 }
