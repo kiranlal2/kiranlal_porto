@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/kiranlal_porto.git/static/css/main.92ca12bf.chunk.css",
+    "main.js": "/kiranlal_porto.git/static/js/main.42c89d8f.chunk.js",
+    "main.js.map": "/kiranlal_porto.git/static/js/main.42c89d8f.chunk.js.map",
+    "runtime-main.js": "/kiranlal_porto.git/static/js/runtime-main.4fb17841.js",
+    "runtime-main.js.map": "/kiranlal_porto.git/static/js/runtime-main.4fb17841.js.map",
+    "static/js/2.cbb3ac5f.chunk.js": "/kiranlal_porto.git/static/js/2.cbb3ac5f.chunk.js",
+    "static/js/2.cbb3ac5f.chunk.js.map": "/kiranlal_porto.git/static/js/2.cbb3ac5f.chunk.js.map",
+    "index.html": "/kiranlal_porto.git/index.html",
+    "static/css/main.92ca12bf.chunk.css.map": "/kiranlal_porto.git/static/css/main.92ca12bf.chunk.css.map",
+    "static/js/2.cbb3ac5f.chunk.js.LICENSE.txt": "/kiranlal_porto.git/static/js/2.cbb3ac5f.chunk.js.LICENSE.txt",
+    "static/media/3dsmax.7319298b.png": "/kiranlal_porto.git/static/media/3dsmax.7319298b.png",
+    "static/media/Klal_logo.d78aef6c.png": "/kiranlal_porto.git/static/media/Klal_logo.d78aef6c.png",
+    "static/media/bio_pic2.8c732c9f.png": "/kiranlal_porto.git/static/media/bio_pic2.8c732c9f.png",
+    "static/media/css3.8d3df2fe.png": "/kiranlal_porto.git/static/media/css3.8d3df2fe.png",
+    "static/media/davinci_resolve.55c02304.png": "/kiranlal_porto.git/static/media/davinci_resolve.55c02304.png",
+    "static/media/experience.5180685f.png": "/kiranlal_porto.git/static/media/experience.5180685f.png",
+    "static/media/github.4cd1e523.png": "/kiranlal_porto.git/static/media/github.4cd1e523.png",
+    "static/media/html5.29a8333c.png": "/kiranlal_porto.git/static/media/html5.29a8333c.png",
+    "static/media/instagram.0938852d.png": "/kiranlal_porto.git/static/media/instagram.0938852d.png",
+    "static/media/Main_bnr.css": "/kiranlal_porto.git/static/media/main_banner.4baa3775.jpg",
+    "static/media/maya.7d296eea.png": "/kiranlal_porto.git/static/media/maya.7d296eea.png",
+    "static/media/php.6cb70c1f.png": "/kiranlal_porto.git/static/media/php.6cb70c1f.png",
+    "static/media/pinterest.05ad6959.png": "/kiranlal_porto.git/static/media/pinterest.05ad6959.png",
+    "static/media/python.2352cac0.png": "/kiranlal_porto.git/static/media/python.2352cac0.png",
+    "static/media/react.aa2d1b58.png": "/kiranlal_porto.git/static/media/react.aa2d1b58.png",
+    "static/media/skills.7c18f0d7.png": "/kiranlal_porto.git/static/media/skills.7c18f0d7.png",
+    "static/media/studies.bfe0910d.png": "/kiranlal_porto.git/static/media/studies.bfe0910d.png",
+    "static/media/tumblr.b8035d6c.png": "/kiranlal_porto.git/static/media/tumblr.b8035d6c.png",
+    "static/media/whatsapp.209ef148.png": "/kiranlal_porto.git/static/media/whatsapp.209ef148.png",
+    "static/media/who_am_i.ae505044.png": "/kiranlal_porto.git/static/media/who_am_i.ae505044.png",
+    "static/media/xd.18b45f26.png": "/kiranlal_porto.git/static/media/xd.18b45f26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb17841.js",
+    "static/js/2.cbb3ac5f.chunk.js",
+    "static/css/main.92ca12bf.chunk.css",
+    "static/js/main.42c89d8f.chunk.js"
+  ]
+}
